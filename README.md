@@ -1,6 +1,6 @@
 # TinyComputerArchitecture
 Tiny computer architecture having CPU and memory written in Verilog
-#### Author: Amit Roy (amitrupu@gmail.com)
+#### Author: Adway Paul (adwaypaul58@gmail.com)
 
 RTL source is in:
 - src/v directory for Verilog-95
