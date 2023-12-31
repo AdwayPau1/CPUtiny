@@ -1,0 +1,10 @@
+MOVA 03
+MOVB 05
+JUMP 0a
+
+
+
+
+ADD
+MOVM 16
+HALT
